@@ -14,7 +14,7 @@ try:
 except ImportError:
     import urllib.parse
 
-__version__ = '0.2.0'
+__version__ = '0.3.0'
 __author__ = 'Nick Satterly'
 __licence__ = 'MIT'
 
